@@ -1,1 +1,1 @@
-# s7rosine_homework
+# s7rosine-homework
